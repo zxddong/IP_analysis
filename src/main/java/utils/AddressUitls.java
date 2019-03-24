@@ -154,8 +154,8 @@ public class AddressUitls {
     public static void main(String args[]) {
         // String ipAddr = "A00:a00:100:f261::F15";
         // String ipAddr = "fe80:1295:8030:49ec:1fc6:57fa:0000:0000";
-        // String ipAddr = "fe80:1295:8030:49ec:1fc6:57fa::";
-        String ipAddr = "fe80::5c61:523f:74f1:1ce3%24";
+         String ipAddr = "fe80:1295:8030:49ec:1fc6:57fa::";
+//        String ipAddr = "fe80::5c61:523f:74f1:1ce3%24";
         // String ipAddr = "192.168.1.50";//ipv4
 
         System.out.println("ip = " + ipAddr);
